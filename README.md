@@ -2,6 +2,9 @@
 
 لعبة بسيطة مبنية بملف HTML واحد.
 
+## Preview
+![Screenshot of the game](screenshot.png)
+
 ## Play
 [▶️ العب الآن](https://alitaye.github.io/4in-A-Row-Game/)
 
