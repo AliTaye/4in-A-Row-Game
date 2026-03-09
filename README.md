@@ -1,24 +1,27 @@
-# 4 in A Row Game
+# 4 in a Row Game
 
-لعبة بسيطة مبنية بملف HTML واحد.
+A simple browser-based **4 in a Row game** built using HTML, CSS, and JavaScript.  
+The game runs directly in the browser with no installation required.
+
+## Play the Game
+▶️ **Play here:**  
+https://alitaye.github.io/4in-A-Row-Game/
 
 ## Preview
-![Screenshot of the game](screenshot.png)
+![Game Screenshot](4inArow-preview.png)
 
-## Play
-[▶️ العب الآن](https://alitaye.github.io/4in-A-Row-Game/)
+## About the Project
+This project is a lightweight implementation of the classic **4 in a Row** game.  
+It was created as a simple web game and hosted using **GitHub Pages**.
 
-## About
-هذه لعبة 4 in a Row بسيطة تعمل داخل المتصفح.
+The entire game runs inside a single HTML file, making it easy to understand, modify, and expand.
 
 ## Features
-- واجهة بسيطة
-- تعمل مباشرة من المتصفح
-- مشروع خفيف وسهل التعديل
+- Runs directly in the browser
+- Simple and clean interface
+- Lightweight implementation
+- Easy to modify and extend
 
-## Run locally
-حمّل الملف ثم افتح:
-`index.html`
-
-## Author
-علي
+## How to Run Locally
+1. Download the repository.
+2. Open the file:
