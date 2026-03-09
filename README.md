@@ -36,7 +36,6 @@ The entire game runs inside a single HTML file, making it easy to understand, mo
 - Add animations
 - Improve game UI
 - Add sound effects
-- Add AI opponent
 
 ## Author
 Ali
