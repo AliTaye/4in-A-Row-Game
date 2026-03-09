@@ -25,3 +25,22 @@ The entire game runs inside a single HTML file, making it easy to understand, mo
 ## How to Run Locally
 1. Download the repository.
 2. Open the file:
+3. The game will run in your browser.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Future Improvements
+- Add animations
+- Improve game UI
+- Add sound effects
+- Add AI opponent
+
+## Author
+Ali
+
+---
+
+If you like the project, feel free to ⭐ the repository.
