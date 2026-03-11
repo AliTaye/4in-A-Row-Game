@@ -539,8 +539,8 @@
                 document.getElementById('winner-text').innerText = "تعادل!";
                 document.getElementById('winner-display').innerText = "🤝";
             } else {
-                const name = winner === 1 ? "لأحمر" : "لأصفر";
-                document.getElementById('winner-text').innerText = `النصر ل${name}!`;
+                const name = winner === 1 ? "للأحمر" : "للأصفر";
+                document.getElementById('winner-text').innerText = ` النصر${name}!`;
                 document.getElementById('winner-display').innerText = winner === 1 ? "🔴" : "🟡";
             }
         }
